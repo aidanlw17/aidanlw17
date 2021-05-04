@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer intern at Ceridian, and an Engineering Science student at the University of Toronto  :thought_balloon:
+I'm a software development engineering intern at Amazon, and an Engineering Science student at the University of Toronto  :thought_balloon:
 
 Stay tuned to see what projects are in the works for <a target="_blank" href="https://github.com/Dropshop-Labs/">Dropshop-Labs</a> :roller_coaster: 
 
